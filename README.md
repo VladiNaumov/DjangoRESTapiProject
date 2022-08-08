@@ -1,4 +1,4 @@
-# DjangoRESTapiProject
+# DjangoREST API Project
 
 Тестовый пример REST API на Django
 
